@@ -1,0 +1,2 @@
+1. Make a prd for this project. Add its link in about.txt file.
+2. Decide the tech stack.
